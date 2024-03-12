@@ -2,6 +2,8 @@
     <img width="1412" src="https://cdn.aleo.org/leo/banner.png">
 </p>
 
+Discord: de.nchik
+
 <h1 align="center">The Leo Programming Language</h1>
 
 <p align="center">
